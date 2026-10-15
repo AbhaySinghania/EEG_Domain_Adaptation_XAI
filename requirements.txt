@@ -1,0 +1,18 @@
+# Versions used for the thesis (Python 3.12.7)
+numpy==2.4.4
+scipy==1.17.1
+pandas==3.0.3
+matplotlib==3.10.9
+seaborn==0.13.2
+scikit-learn==1.8.0
+torch==2.11.0
+captum==0.9.0
+mne==1.12.1
+mne-icalabel==0.8.1
+pyriemann==0.11
+tqdm==4.67.3
+jupyter==1.1.1
+ipykernel==7.2.0
+
+# Only needed for notebooks/dataset_review
+# moabb

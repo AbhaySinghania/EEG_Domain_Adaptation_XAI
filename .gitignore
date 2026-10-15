@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and OS
+.vscode/
+.DS_Store
+
+# Data and generated results (not shared; see README)
+Data/
+results/
