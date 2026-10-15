@@ -1,6 +1,6 @@
 # Interpreting Domain Adaptation in Cross-Subject EEG Classification Using Explainable AI
 
-Code for the paper of the same name by Abhay Rajesh Singhania (SRH Berlin University of Applied Sciences), prepared for AI Summit 2026 (12 October 2026). Publication is pending. The paper is a shorter version of my MSc thesis in Computer Science (Big Data and AI), supervised by Nazneen Mansoor.
+Code for my MSc thesis in Computer Science (Big Data and AI) at SRH University, Berlin, supervised by Nazneen Mansoor.
 
 EEG classifiers trained on one group of people usually lose accuracy on a new person, because brain signals differ between subjects. In this project I trained a conditional domain adversarial network (CDAN) with an EEGNet feature extractor for cross-subject motor imagery classification. I then used four attribution methods to look at which channels and time windows the model relies on for each new subject. The aim was to look past the accuracy score and understand why transfer works for some subjects and fails for others.
 
@@ -104,7 +104,7 @@ Run the notebooks from inside the `notebooks/` folder. They expect `Data/` and `
 
 ## Citation
 
-Singhania, A. R. (2026). Interpreting Domain Adaptation in Cross-Subject EEG Classification Using Explainable AI. AI Summit 2026. Publication pending. ORCID: 0009-0002-4780-6821.
+Singhania, A. R. (2026). Interpreting Domain Adaptation in Cross-Subject EEG Classification Using Explainable AI. MSc thesis, SRH University, Berlin. ORCID: 0009-0002-4780-6821.
 
 ## References
 
