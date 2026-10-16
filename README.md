@@ -1,6 +1,6 @@
 # Interpreting Domain Adaptation in Cross-Subject EEG Classification Using Explainable AI
 
-Code for my MSc thesis in Computer Science (Big Data and AI) at SRH University, Berlin, supervised by Nazneen Mansoor.
+Code for my MSc thesis in Computer Science (Big Data and AI) at SRH University, Berlin.
 
 EEG classifiers trained on one group of people usually lose accuracy on a new person, because brain signals differ between subjects. In this project I trained a conditional domain adversarial network (CDAN) with an EEGNet feature extractor for cross-subject motor imagery classification. I then used four attribution methods to look at which channels and time windows the model relies on for each new subject. The aim was to look past the accuracy score and understand why transfer works for some subjects and fails for others.
 
